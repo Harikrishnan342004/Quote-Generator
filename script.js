@@ -1,5 +1,6 @@
 const generateQuote = () => {               //Onclick Generate btn...
-    const url = "https://type.fit/api/quotes";    //API variable
+    const url = "https://type.fit/api/quotes"; 
+       //API variable
     fetch(url)
         .then(response => response.json())
         .then(data => {
