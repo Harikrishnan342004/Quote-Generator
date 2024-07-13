@@ -47,12 +47,20 @@ body
 {
 width: 50px;
 height: 50px;
-margin-top: 10px;
+margin-top: 12px;
 border-radius: 50%;
 border: none;
 background-color:deepskyblue;
 color: aliceblue;
 font-size: 10px;
+cursor: pointer;
+
+}
+.generateBtn:hover
+{
+   border: rgb(53, 122, 146);
+   background-color: rgb(53, 122, 146); ;
+   transform: scale(1.2);
 }
 
 @media only screen and (max-width: 600px) {
