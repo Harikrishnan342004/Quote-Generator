@@ -59,7 +59,7 @@ cursor: pointer;
 .generateBtn:hover
 {
    
-   background-color: rgb(53, 122, 146); ;
+   background-color: rgb(53, 122, 146); 
    transform: scale(1.2);
 }
 
