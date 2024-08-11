@@ -1,0 +1,2 @@
+This is the text fetched from fetch_info.txt using the Fetch API.
+hii heloooo
